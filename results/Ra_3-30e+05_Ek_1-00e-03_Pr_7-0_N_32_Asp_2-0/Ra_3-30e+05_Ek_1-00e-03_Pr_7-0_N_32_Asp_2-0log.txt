@@ -1,0 +1,2 @@
+3D-rrbc, Ra:3.30e+05, Ek:1.00e-03, Nz:16, Ny:32, Nx:32, Pr:7.0, 
+time	Re	Nu-top	Nu-bottom	Nu-midplane	Nu-integral	umax	vmax	wmax	buoyancy	dissip	energy-balance	nu-error	D_visc	thermal_dissipation	
